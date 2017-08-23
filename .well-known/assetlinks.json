@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.myclawd",
+    "package_name": "com.recipe_app",
     "sha256_cert_fingerprints":
-    ["90:4C:63:FD:F5:DF:B5:E5:96:F9:DB:41:F9:D6:A4:9C:50:FD:65:03:AF:B6:80:EB:7E:C8:78:A2:CA:97:09:D8"]
+    ["B2:C9:11:72:13:DA:64:3B:5C:80:30:CE:0A:5C:69:F1:FD:E9:2E:11:72:60:D8:CC:CF:9B:6E:C9:D0:67:4D:36"]
   }
 }]
