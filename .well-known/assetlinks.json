@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.myclawd",
+    "sha256_cert_fingerprints":
+    ["90:4C:63:FD:F5:DF:B5:E5:96:F9:DB:41:F9:D6:A4:9C:50:FD:65:03:AF:B6:80:EB:7E:C8:78:A2:CA:97:09:D8"]
+  }
+}]
